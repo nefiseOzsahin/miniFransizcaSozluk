@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">miniFransizcaSozluk</string>
+    <string name="Category_Numbers">Sayılar</string>
+    <string name="Category_Family">Aile Üyeleri</string>
+    <string name="Category_Colors">Renkler</string>
+    <string name="Category_Phrases">Kalıp Cümleler</string>
+    <string name="Category_Main">Mini Fransızca Sözlük</string>
+</resources>
